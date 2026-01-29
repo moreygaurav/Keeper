@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moreygaurav/Keeper.git/static/css/main.01e72bc6.css",
+    "main.js": "/moreygaurav/Keeper.git/static/js/main.14b050bc.js",
+    "index.html": "/moreygaurav/Keeper.git/index.html",
+    "main.01e72bc6.css.map": "/moreygaurav/Keeper.git/static/css/main.01e72bc6.css.map",
+    "main.14b050bc.js.map": "/moreygaurav/Keeper.git/static/js/main.14b050bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01e72bc6.css",
+    "static/js/main.14b050bc.js"
+  ]
+}
