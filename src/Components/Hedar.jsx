@@ -1,11 +1,16 @@
-import React from 'react'
+import React from "react";
+import HighlightIcon from "@mui/icons-material/Highlight";
 
-function Hedar() {
+
+function Header() {
   return (
-    <div className="header bg-warning text-center p-3">
-      <h1 >Keeper</h1>
-    </div>
-  )
+    <header>
+      <h1>
+        <HighlightIcon />
+        Keeper
+      </h1>
+    </header>
+  );
 }
 
-export default Hedar
+export default Header;
