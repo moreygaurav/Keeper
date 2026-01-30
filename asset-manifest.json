@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/moreygaurav/Keeper.git/static/css/main.01e72bc6.css",
-    "main.js": "/moreygaurav/Keeper.git/static/js/main.0df2392d.js",
-    "index.html": "/moreygaurav/Keeper.git/index.html",
-    "main.01e72bc6.css.map": "/moreygaurav/Keeper.git/static/css/main.01e72bc6.css.map",
-    "main.0df2392d.js.map": "/moreygaurav/Keeper.git/static/js/main.0df2392d.js.map"
+    "main.css": "/Keeper/static/css/main.01e72bc6.css",
+    "main.js": "/Keeper/static/js/main.0df2392d.js",
+    "index.html": "/Keeper/index.html",
+    "main.01e72bc6.css.map": "/Keeper/static/css/main.01e72bc6.css.map",
+    "main.0df2392d.js.map": "/Keeper/static/js/main.0df2392d.js.map"
   },
   "entrypoints": [
     "static/css/main.01e72bc6.css",
